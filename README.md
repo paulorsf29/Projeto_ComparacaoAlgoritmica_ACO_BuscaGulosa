@@ -1,5 +1,9 @@
 # 🏆 Análise Comparativa: Algoritmos Aproximativos para o Problema do Caixeiro Viajante
 
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Finalizado-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 ## 📋 Sobre o Projeto
 Este projeto implementa e compara duas abordagens para o **Problema do Caixeiro Viajante (PCV)**:
 - **Algoritmo Guloso (Vizinho Mais Próximo)** - Abordagem determinística e rápida
